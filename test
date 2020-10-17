@@ -1,0 +1,11 @@
+void setup(){
+  size(300,300);
+  background(0,0,0);
+  int x = 20;
+  double y = 30;
+  int [] hi = {23,22,21};
+  print(hi[0],hi[1],hi[2]);
+  
+
+
+}
